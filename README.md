@@ -72,13 +72,13 @@
 
 > **1. PAIR CODE SESSION ID**
 
-<a href="https://SHAMIM-pair-site.onrender.com" target="_blank">
+<a href="" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF4500?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
 
 > **2. PAIR CODE SESSION ID**
 
-<a href="https://SF-KAZI-MD-pair.onrender.com" target="_blank">
+<a href="" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF1493?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
 
@@ -99,7 +99,7 @@
   <table>
     <tr>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/sf-kazi-md/SF-KAZI-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-       <td><a href="https://erfan-vps-site-def3a7aba559.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+       <td><a href="https://Shamim-vps-site-def3a7aba559.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=sf-kazi-md/SF-KAZI-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
@@ -114,7 +114,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://erfan-vps.vercel.app/" target="_blank">
+      <a href="/" target="_blank">
         <img alt="FREE-VPS-SITE" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
