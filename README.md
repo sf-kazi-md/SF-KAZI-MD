@@ -72,13 +72,13 @@
 
 > **1. PAIR CODE SESSION ID**
 
-<a href="https://erfan-pair-site.onrender.com" target="_blank">
+<a href="https://SHAMIM-pair-site.onrender.com" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF4500?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
 
 > **2. PAIR CODE SESSION ID**
 
-<a href="https://dark-pair.onrender.com" target="_blank">
+<a href="https://SF-KAZI-MD-pair.onrender.com" target="_blank">
   <img alt="Pairing Code" src="https://img.shields.io/badge/Get%20Pairing%20Code-FF1493?style=for-the-badge&logo=opencv&logoColor=black">
 </a>
 
@@ -134,7 +134,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/sf-kazi-md/SF-KAZI-MD" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -175,8 +175,8 @@
 
 ## 📞 Contact & Support
 
-### Project Owner: Erfan Ahmad
-<a href='https://wa.me/+8801855356371?text=*HELLO+SF-KAZI-MD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
+### Project Owner: SHAMIM AHMED 
+<a href='https://wa.me/+8801855356371?text=*HELLO+SF-KAZI-MD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+SF-KAZI-MD+ʀᴇᴘᴏ!!*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
