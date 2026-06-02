@@ -93,7 +93,7 @@
 ---
 
 
-<p align="center">Deploy your <strong>DARKZONE-MD Bot</strong> on any hosting service of your choice.</p>
+<p align="center">Deploy your <strong>SF-KAZI-MD</strong> on any hosting service of your choice.</p>
 
 <div align="center">
   <table>
