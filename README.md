@@ -30,7 +30,7 @@ npm install
 npm start
 ```
 
-> **Pairing Portal:** [SF-KAZI-MD bot](https://sf-kazi-md.onrender.com)
+> **Pairing Portal:** [https://sf-kazi-md-1.onrender.com](https://sf-kazi-md-1.onrender.com)
 
 ---
 
