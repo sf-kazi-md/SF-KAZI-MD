@@ -178,7 +178,7 @@ npm start
 |---|---|
 | **Official Bot Hosting** | [usebotforge.app (99.9% Uptime)](https://www.usebotforge.app/) |
 | **Repository** | [github.com/sf-kazi-md/sf-kazi-md-Bot](https://github.com/sf-kazi-md-Bot) |
-| **Pairing Portal** | [phantom-session-web.onrender.com]() |
+| **Pairing Portal** | [SF-KAZI-MD-session-web.onrender.com](https://sf-kazi-md.onrender.com) |
 | **WhatsApp Channel** | [Folloor updates](https://whatsapp.com/channel/0029VbC8MBZHrDZelHN6bJ2C) |
 
 ---
