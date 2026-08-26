@@ -30,7 +30,7 @@ npm install
 npm start
 ```
 
-> **Pairing Portal:** [phantom-session-web.onrender.com](https://phantom-session-web.onrender.co)
+> **Pairing Portal:** []()
 
 ---
 
