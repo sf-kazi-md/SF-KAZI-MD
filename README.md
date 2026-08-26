@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_SF-KAZI-MD_BOT-v5.1.2-blueviolet?style=for-the-badge&labelColor=0d1117" alt="sf-kazi-md Bot"/>
+  <img src="https://img.shields.io/badge/⚡_SFKAZI-MD_BOT-v5.1.2-blueviolet?style=for-the-badge&labelColor=0d1117" alt="sf-kazi-md Bot"/>
 </p>
 
 <p align="center">
